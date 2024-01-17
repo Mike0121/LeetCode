@@ -6,18 +6,24 @@
 - 問題の中で閉じたコードではなく、実業務でどのような感覚を持っている人かをコードを通じて伝える
 
 #### 命名のコツ
-- 関数名、変数名は基本小文字で統一。大文字(or 大文字スタート)はクラス名、グローバル変数のため
-- 
+- 関数名、変数名は基本小文字で統一。大文字(or 大文字スタート)はクラス名、グローバル変数のため。
+- 関数名にhelperをつけるのは、あまりにも想定呼び出し元と機能が被っていて名前がつかない場合。
+例 ) fibonacci を書くときのように、引数や返り値を拡張した補助関数を使いたい(返り値を f_n, f_{n+1} にしたバージョンなど)場合
+```
+def fibonacci(n):
+  return fibonacci_helper(n)[0]
+```
+
 
 
 
 #### 改善例
 | 改良前 | 改良後 |
 | --------- | --------- |
-| H, W   |  max_height, max_width   |
+| H, W   |  height, width   |
 | l, r     | left, right   |
-|  dp   |  hoge_table  |
-| dfs    | max_area_recursive_auxiliary, max_area_helper   |
+|  dp   |  value_to_amount<br>(添字から値への対応を変数名に)  |
+| dfs    | max_area_recursive_auxiliary<br>(具体的な目的・動作等を関数名に)   |
 |   HashMap  |   hash_map, hoge_table |
 |   back_tracking |   hoge_helper |
 |    |    |
@@ -26,8 +32,7 @@
 
 #### ロジック関連
 - returnは単体ではなく、return Noneの方が自明。(何も書かないよりも書いた方がベター。)
-- 
-- 
+
 
 
 #### 用語
@@ -53,8 +58,6 @@
 ### 問題別アドバイス
 ---
 1. Two Sum
-
-
 2. Add Two Numbers
 3. Longest Substring Without Repeating Characters
 4. Zigzag Conversion
