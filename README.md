@@ -35,7 +35,7 @@
 - [ ] 30. Best Time to Buy and Sell Stock II
 - [ ] 31. Word Ladder
 - [ ] 32. Word Break
-- [ ] 33. Linked List Cycle
+- [x] 33. Linked List Cycle
 - [ ] 34. Linked List Cycle II
 - [ ] 35. Find Minimum in Rotated Sorted Array
 - [ ] 36. House Robber
