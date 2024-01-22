@@ -16,9 +16,9 @@
 - [ ] 13. Group Anagrams
 - [ ] 14. Pow(x, n)
 - [ ] 15. Maximum Subarray
-- [ ] 16. Unique Paths
+- [x] 16. Unique Paths
 - [ ] 17. Unique Paths II
-- [ ] 18. Subsets
+- [x] 18. Subsets
 - [ ] 19. Remove Duplicates from Sorted List II
 - [ ] 20. Remove Duplicates from Sorted List
 - [ ] 21. Validate Binary Search Tree
