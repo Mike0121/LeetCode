@@ -1,23 +1,26 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         
-        zigzag = [[] for _ in range(numRows)]
         i = 0
+        zigzag = [[] for _ in range(numRows)]
 
         while i < len(s):
-            #行き
-            for n in range(numRows):
+            for row in range(numRows):
                 if i >= len(s): break
-                zigzag[n].append(s[i])
+                zigzag[row].append(s[i])
                 i += 1
 
-            #帰り
-            for n in range(numRows-2, 0, -1):
+            for row in range(numRows - 2, 0, -1):
                 if i >= len(s): break
-                zigzag[n].append(s[i])
+                zigzag[row].append(s[i])
                 i += 1
 
-        for i in range(1, numRows):
-            zigzag[0].extend(zigzag[i])
+        string_line_by_line = ""
 
-        return "".join(zigzag[0])
+        for row in range(len(zigzag)):
+            string_line_by_line += ("").join(zigzag[row])
+
+        return string_line_by_line
+                
+
+        
