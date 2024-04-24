@@ -1,26 +1,26 @@
 # LeetCode
 
-### 解き直しチェックリスト 
+### 解き直しチェックリスト (2024)
 ---
 
-- [x] 1. Two Sum
-- [x] 2. Add Two Numbers
-- [x] 3. Longest Substring Without Repeating Characters
-- [x] 4. Zigzag Conversion
+- [ ] 1. Two Sum
+- [ ] 2. Add Two Numbers
+- [ ] 3. Longest Substring Without Repeating Characters
+- [ ] 4. Zigzag Conversion
 - [ ] 5. String to Integer (atoi)
-- [x] 6. Valid Parentheses
+- [ ] 6. Valid Parentheses
 - [x] 7. Generate Parentheses
-- [x] 8. Next Permutation
+- [ ] 8. Next Permutation
 - [ ] 9. Search in Rotated Sorted Array
 - [ ] 10. Search Insert Position
-- [ ] 11. Combination Sum
+- [x] 11. Combination Sum
 - [ ] 12. Permutations
 - [ ] 13. Group Anagrams
 - [ ] 14. Pow(x, n)
 - [ ] 15. Maximum Subarray
-- [x] 16. Unique Paths
+- [ ] 16. Unique Paths
 - [ ] 17. Unique Paths II
-- [x] 18. Subsets
+- [ ] 18. Subsets
 - [ ] 19. Remove Duplicates from Sorted List II
 - [ ] 20. Remove Duplicates from Sorted List
 - [ ] 21. Validate Binary Search Tree
