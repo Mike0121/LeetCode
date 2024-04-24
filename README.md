@@ -35,7 +35,7 @@
 - [ ] 30. Best Time to Buy and Sell Stock II
 - [ ] 31. Word Ladder
 - [ ] 32. Word Break
-- [x] 33. Linked List Cycle
+- [ ] 33. Linked List Cycle
 - [ ] 34. Linked List Cycle II
 - [ ] 35. Find Minimum in Rotated Sorted Array
 - [ ] 36. House Robber
@@ -48,13 +48,13 @@
 - [ ] 43. Paint Fence
 - [ ] 44. Move Zeroes
 - [ ] 45. Longest Increasing Subsequence
-- [x] 46. Coin Change
+- [ ] 46. Coin Change
 - [ ] 47. Number of Connected Components in an Undirected Graph
 - [ ] 48. Top K Frequent Elements
 - [ ] 49. Intersection of Two Arrays
 - [ ] 50. Find K Pairs with Smallest Sums
 - [ ] 51. First Unique Character in a String
-- [x] 52. Is Subsequence
+- [ ] 52. Is Subsequence
 - [ ] 53. Subarray Sum Equals K
 - [ ] 54. Merge Two Binary Trees
 - [ ] 55. Max Area of Island
