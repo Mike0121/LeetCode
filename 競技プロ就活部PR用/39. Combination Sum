@@ -1,0 +1,27 @@
+``` python 
+3回目
+# 時間計算量: O(2^N)
+# 空間計算量: O(N)
+N = len(candidates)
+
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        
+        all_valid_combination = []
+
+        def find_vaild_combination(index, current_target, current_combination):
+            if len(candidates) <= index:
+                if  current_target == 0:
+                    all_valid_combination.append(current_combination[:])
+                return
+
+            if  candidates[index] <= current_target:
+                current_combination.append(candidates[index])
+                find_vaild_combination(index, current_target-candidates[index], current_combination)
+                current_combination.pop()
+
+            find_vaild_combination(index+1, current_target, current_combination)
+
+        find_vaild_combination(0, target, [])
+        return all_valid_combination
+```
