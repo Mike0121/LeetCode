@@ -1,65 +1,64 @@
 # LeetCode
-
-### 解き直しチェックリスト (2024)
+### Arai60
 ---
 
-- [ ] 1. Two Sum
-- [ ] 2. Add Two Numbers
-- [ ] 3. Longest Substring Without Repeating Characters
-- [ ] 4. Zigzag Conversion
-- [ ] 5. String to Integer (atoi)
-- [ ] 6. Valid Parentheses
+- [x] 1. Two Sum
+- [x] 2. Add Two Numbers
+- [x] 3. Longest Substring Without Repeating Characters
+- [x] 4. Zigzag Conversion
+- [x] 5. String to Integer (atoi)
+- [x] 6. Valid Parentheses
 - [x] 7. Generate Parentheses
-- [ ] 8. Next Permutation
-- [ ] 9. Search in Rotated Sorted Array
-- [ ] 10. Search Insert Position
+- [x] 8. Next Permutation
+- [x] 9. Search in Rotated Sorted Array
+- [x] 10. Search Insert Position
 - [x] 11. Combination Sum
-- [ ] 12. Permutations
-- [ ] 13. Group Anagrams
-- [ ] 14. Pow(x, n)
-- [ ] 15. Maximum Subarray
-- [ ] 16. Unique Paths
-- [ ] 17. Unique Paths II
-- [ ] 18. Subsets
-- [ ] 19. Remove Duplicates from Sorted List II
-- [ ] 20. Remove Duplicates from Sorted List
-- [ ] 21. Validate Binary Search Tree
-- [ ] 22. Binary Tree Level Order Traversal
-- [ ] 23. Binary Tree Zigzag Level Order Traversal
-- [ ] 24. Maximum Depth of Binary Tree
-- [ ] 25. Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] 26. Convert Sorted Array to Binary Search Tree
-- [ ] 27. Minimum Depth of Binary Tree
-- [ ] 28. Path Sum
-- [ ] 29. Best Time to Buy and Sell Stock
-- [ ] 30. Best Time to Buy and Sell Stock II
-- [ ] 31. Word Ladder
-- [ ] 32. Word Break
-- [ ] 33. Linked List Cycle
-- [ ] 34. Linked List Cycle II
-- [ ] 35. Find Minimum in Rotated Sorted Array
-- [ ] 36. House Robber
-- [ ] 37. Number of Islands
-- [ ] 38. Reverse Linked List
-- [ ] 39. Minimum Size Subarray Sum
-- [ ] 40. House Robber II
-- [ ] 41. Meeting Rooms
-- [ ] 42. Meeting Rooms II
-- [ ] 43. Paint Fence
-- [ ] 44. Move Zeroes
-- [ ] 45. Longest Increasing Subsequence
-- [ ] 46. Coin Change
-- [ ] 47. Number of Connected Components in an Undirected Graph
-- [ ] 48. Top K Frequent Elements
-- [ ] 49. Intersection of Two Arrays
-- [ ] 50. Find K Pairs with Smallest Sums
-- [ ] 51. First Unique Character in a String
-- [ ] 52. Is Subsequence
-- [ ] 53. Subarray Sum Equals K
-- [ ] 54. Merge Two Binary Trees
-- [ ] 55. Max Area of Island
-- [ ] 56. Kth Largest Element in a Stream
-- [ ] 57. Split BST
-- [ ] 58. K-th Symbol in Grammar
-- [ ] 59. Unique Email Addresses
-- [ ] 60. Capacity To Ship Packages Within D Days
+- [x] 12. Permutations
+- [x] 13. Group Anagrams
+- [x] 14. Pow(x, n)
+- [x] 15. Maximum Subarray
+- [x] 16. Unique Paths
+- [x] 17. Unique Paths II
+- [x] 18. Subsets
+- [x] 19. Remove Duplicates from Sorted List II
+- [x] 20. Remove Duplicates from Sorted List
+- [x] 21. Validate Binary Search Tree
+- [x] 22. Binary Tree Level Order Traversal
+- [x] 23. Binary Tree Zigzag Level Order Traversal
+- [x] 24. Maximum Depth of Binary Tree
+- [x] 25. Construct Binary Tree from Preorder and Inorder Traversal
+- [x] 26. Convert Sorted Array to Binary Search Tree
+- [x] 27. Minimum Depth of Binary Tree
+- [x] 28. Path Sum
+- [x] 29. Best Time to Buy and Sell Stock
+- [x] 30. Best Time to Buy and Sell Stock II
+- [x] 31. Word Ladder
+- [x] 32. Word Break
+- [x] 33. Linked List Cycle
+- [x] 34. Linked List Cycle II
+- [x] 35. Find Minimum in Rotated Sorted Array
+- [x] 36. House Robber
+- [x] 37. Number of Islands
+- [x] 38. Reverse Linked List
+- [x] 39. Minimum Size Subarray Sum
+- [x] 40. House Robber II
+- [x] 41. Meeting Rooms
+- [x] 42. Meeting Rooms II
+- [x] 43. Paint Fence
+- [x] 44. Move Zeroes
+- [x] 45. Longest Increasing Subsequence
+- [x] 46. Coin Change
+- [x] 47. Number of Connected Components in an Undirected Graph
+- [x] 48. Top K Frequent Elements
+- [x] 49. Intersection of Two Arrays
+- [x] 50. Find K Pairs with Smallest Sums
+- [x] 51. First Unique Character in a String
+- [x] 52. Is Subsequence
+- [x] 53. Subarray Sum Equals K
+- [x] 54. Merge Two Binary Trees
+- [x] 55. Max Area of Island
+- [x] 56. Kth Largest Element in a Stream
+- [x] 57. Split BST
+- [x] 58. K-th Symbol in Grammar
+- [x] 59. Unique Email Addresses
+- [x] 60. Capacity To Ship Packages Within D Days
